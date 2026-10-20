@@ -44,8 +44,10 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 7. **After "ok": publish.** Convert to JPEG, commit to `posts/<YYYY-MM-DD>-<slug>/`, push, check the
    raw URLs return 200. Schedule in Metricool (brand id `7547984`) for **20:00 Europe/London** on the
    same day (next day if it is already past 20:00 UK): Instagram, Pinterest, Threads. Not Facebook.
-   Pinterest boards: Pushchairs → "Pram & Pushchair Tips". Other categories: ask the owner which board to use
-   (no board exists yet for Car Seats, Kids Furniture, Nursing & Feeding).
+   Pinterest boards (pass the exact name as boardId):
+   Pushchairs → "Pram & Pushchair Tips" · Car Seats → "Car Seat Safety Tips" ·
+   Kids Furniture → "Nursery & Safe Sleep Tips" · Nursing & Feeding → "Breastfeeding & Bottle Feeding Tips".
+   If Metricool cannot find a board, tell the owner instead of picking another one.
    Then set the plan row Status to `Scheduled <date>` and commit the plan.
 
 ## Posts so far
