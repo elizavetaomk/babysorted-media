@@ -47,6 +47,7 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
    Pinterest boards (pass the exact name as boardId):
    Pushchairs → "Pram & Pushchair Tips" · Car Seats → "Car Seat Safety Tips" ·
    Kids Furniture → "Nursery & Safe Sleep Tips" · Nursing & Feeding → "Breastfeeding & Bottle Feeding Tips".
+   Deals posts (any category) → "Baby Gear Deals UK". New board names should not all end in "Tips".
    If Metricool cannot find a board, tell the owner instead of picking another one.
    Then set the plan row Status to `Scheduled <date>` and commit the plan.
 
