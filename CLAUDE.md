@@ -4,6 +4,10 @@ This repo holds the content plan, slide templates and published post images for 
 (babysorted.com, a UK baby-gear price comparison site). Images in `posts/` are served publicly
 via raw.githubusercontent.com and passed to Metricool as media URLs.
 
+## Rhythm
+One post every day at 20:00 Europe/London. Posts are prepared in batches on Mon (Mon+Tue), Wed (Wed+Thu)
+and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
+
 ## Workflow for each post
 
 1. **Pick the topic.** Open `plan/content_plan.xlsx`, take the first row whose Status is `Planned`.
@@ -40,7 +44,8 @@ via raw.githubusercontent.com and passed to Metricool as media URLs.
 7. **After "ok": publish.** Convert to JPEG, commit to `posts/<YYYY-MM-DD>-<slug>/`, push, check the
    raw URLs return 200. Schedule in Metricool (brand id `7547984`) for **20:00 Europe/London** on the
    same day (next day if it is already past 20:00 UK): Instagram, Pinterest, Threads. Not Facebook.
-   Pinterest boards: pushchairs → "Pram & Pushchair Tips" (ask the owner for other categories).
+   Pinterest boards: Pushchairs → "Pram & Pushchair Tips". Other categories: ask the owner which board to use
+   (no board exists yet for Car Seats, Kids Furniture, Nursing & Feeding).
    Then set the plan row Status to `Scheduled <date>` and commit the plan.
 
 ## Posts so far
