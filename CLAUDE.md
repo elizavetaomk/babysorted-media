@@ -55,3 +55,5 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 - #1 5 pram mistakes · #2 5 car seat mistakes · #3 Crib vs cot vs cot bed · #4 Breast pump types
 - #6 i-Size explained · #7 8 safe sleep checks most parents miss · #9 Pram vs pushchair vs travel system
 - #10 Infant carrier vs extended rear-facing seat (22 Oct)
+- #11 How to choose a cot mattress (23 Oct) · #13 Best lightweight pushchairs for city life (24 Oct)
+- #14 Car seat fitting checklist (25 Oct)
