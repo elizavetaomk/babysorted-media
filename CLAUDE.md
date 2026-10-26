@@ -15,6 +15,9 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 2. **Make it genuinely useful.** No obvious, generic advice. Every post needs non-obvious, practical
    points a parent would save. Verify every fact, number and safety claim against primary UK sources
    (Lullaby Trust, NHS, RoSPA, Which?, gov.uk). Never invent numbers. List sources for the owner.
+   Never recommend supplements or vitamins ourselves (no doses, no "take/give X"): only tell people to ask
+   their GP, midwife or health visitor. When a post gives a phone number, say which country it serves and
+   whether the call is free or charged.
 3. **Product photos come from the BabySorted catalog.** The site loads products from Supabase
    (`https://khhjsjiltmtrrrkaghif.supabase.co`, table `products`). Take the public anon key from
    `https://babysorted.com/catalog` (it is in the page HTML). Read only — never write to the database.
