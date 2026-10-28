@@ -61,3 +61,4 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 - #11 How to choose a cot mattress (23 Oct) · #13 Best lightweight pushchairs for city life (24 Oct)
 - #14 Car seat fitting checklist (25 Oct) · #15 Best bedside cribs for the first 6 months (26 Oct)
 - #16 Breastfeeding essentials checklist (27 Oct)
+- #17 One-hand fold: why it matters (28 Oct) · #18 When to move to the next car seat (29 Oct)
