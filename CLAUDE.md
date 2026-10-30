@@ -62,3 +62,6 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 - #14 Car seat fitting checklist (25 Oct) · #15 Best bedside cribs for the first 6 months (26 Oct)
 - #16 Breastfeeding essentials checklist (27 Oct)
 - #17 One-hand fold: why it matters (28 Oct) · #18 When to move to the next car seat (29 Oct)
+- #19 7 nursery mistakes to avoid (30 Oct) · #22 How to choose baby bottles (31 Oct)
+- #23 Bugaboo Fox 5 Renew vs Butterfly 2 (1 Nov)
+- Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
