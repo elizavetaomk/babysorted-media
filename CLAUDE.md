@@ -28,6 +28,11 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 4. **Design.** Templates in `templates/`. Brand: pink `#F1D3DF`, navy `#051F45`, deeper pink
    `#E6B6C9`, mint `#DDF5E3`, white; font Inter; Instagram 1080×1350, Pinterest 1000×1500.
    - Change layout AND background colour from the previous post (pink / navy / white / mint rotate).
+   - Colour harmony (owner's request): background, panels, pills and accents must suit the product's own colour.
+     Pick the product colour variant (from the catalog) and the brand background together: e.g. green/sage products on
+     pink or white, wood/beige on pink or mint, navy/black products on pink or white, white products on navy or deeper pink.
+     Avoid putting a product on a panel of nearly the same colour, and avoid more than 2 brand colours plus the product per slide.
+     Before sending, view the slides side by side and adjust any slide where colours clash.
    - Covers carry two tags: type (Tips, Buying guide, Comparison, Deals, Checklist) + category
      (Pushchairs, Car Seats, Kids Furniture, Nursing & Feeding).
    - Close-up product style is for covers only; inner slides show whole products at a normal size,
