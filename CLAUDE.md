@@ -5,8 +5,10 @@ This repo holds the content plan, slide templates and published post images for 
 via raw.githubusercontent.com and passed to Metricool as media URLs.
 
 ## Rhythm
-One post every day at 20:00 Europe/London. Posts are prepared in batches on Mon (Mon+Tue), Wed (Wed+Thu)
-and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
+Two posts every day: 09:00 and 20:00 Europe/London. Posts are prepared in batches on Mon, Wed and Fri, approved
+by the owner, then scheduled in Metricool. Runs happen after 09:00 UK, so each batch starts with that day's 20:00 slot
+and ends with the 09:00 slot on the day of the next run: Mon = Mon 20:00 to Wed 09:00 (4 posts),
+Wed = Wed 20:00 to Fri 09:00 (4 posts), Fri = Fri 20:00 to Mon 09:00 (6 posts).
 
 ## Workflow for each post
 
@@ -50,8 +52,9 @@ and Fri (Fri+Sat+Sun), approved by the owner, then scheduled in Metricool.
 6. **Send for approval.** Send the slides, pin and all captions to the owner in one message, then send
    a push notification that the post is ready. Do NOT schedule anything before the owner says "ok".
 7. **After "ok": publish.** Convert to JPEG, commit to `posts/<YYYY-MM-DD>-<slug>/`, push, check the
-   raw URLs return 200. Schedule in Metricool (brand id `7547984`) for **20:00 Europe/London** on the
-   same day (next day if it is already past 20:00 UK): Instagram, Pinterest, Threads. Not Facebook.
+   raw URLs return 200. Schedule in Metricool (brand id `7547984`) for the post's planned slot, **09:00 or 20:00
+   Europe/London** (next free slot if that time has already passed): Instagram, Pinterest, Threads. Not Facebook.
+   Each network is a separate Metricool post, because the captions and images differ.
    Pinterest boards (pass the exact name as boardId):
    Pushchairs → "Pram & Pushchair Tips" · Car Seats → "Car Seat Safety Tips" ·
    Kids Furniture → "Nursery & Safe Sleep Tips" · Nursing & Feeding → "Breastfeeding & Bottle Feeding Tips".
