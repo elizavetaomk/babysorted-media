@@ -72,5 +72,5 @@ Wed = Wed 20:00 to Fri 09:00 (4 posts), Fri = Fri 20:00 to Mon 09:00 (6 posts).
 - #17 One-hand fold: why it matters (28 Oct) · #18 When to move to the next car seat (29 Oct)
 - #19 7 nursery mistakes to avoid (30 Oct) · #22 How to choose baby bottles (31 Oct)
 - #23 Bugaboo Fox 5 Renew vs Butterfly 2 (1 Nov)
-- #24 ISOFIX vs seat belt fitting (3 Nov) · #25 Best high chairs that grow with your child (4 Nov)
+- #24 ISOFIX vs seat belt fitting (3 Nov) · #25 Best high chairs that grow with your child (3 Nov, 20:30)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
