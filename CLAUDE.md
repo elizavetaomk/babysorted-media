@@ -73,6 +73,7 @@ Wed = Wed 20:00 to Fri 09:00 (4 posts), Fri = Fri 20:00 to Mon 09:00 (6 posts).
 - #19 7 nursery mistakes to avoid (30 Oct) · #22 How to choose baby bottles (31 Oct)
 - #23 Bugaboo Fox 5 Renew vs Butterfly 2 (1 Nov)
 - #24 ISOFIX vs seat belt fitting (3 Nov) · #25 Best high chairs that grow with your child (3 Nov, 20:30)
+- #26 Nursery furniture deals before Christmas (4 Nov, 21:05)
 - #27 Best bottle sterilisers: steam vs UV (5 Nov, 09:00) · #28 Best compact strollers for travel and flights (5 Nov)
 - #29 Best rotating car seats for easy lifting (6 Nov, 09:00)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
