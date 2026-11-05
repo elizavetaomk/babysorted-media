@@ -10,6 +10,12 @@ by the owner, then scheduled in Metricool. Runs happen after 09:00 UK, so each b
 and ends with the 09:00 slot on the day of the next run: Mon = Mon 20:00 to Wed 09:00 (4 posts),
 Wed = Wed 20:00 to Fri 09:00 (4 posts), Fri = Fri 20:00 to Mon 09:00 (6 posts).
 
+Lunchtime extras (owner's request, Nov 2026): every day at 13:00 Europe/London, one short Threads post and one fresh Pinterest pin. Not an Instagram post,
+and no Instagram Stories. Batches cover the 13:00 slots from the next day up to and including the day of the next run: Mon = Tue, Wed; Wed = Thu, Fri;
+Fri = Sat, Sun, Mon. Threads extra: a useful tip or question from a published topic, same Threads rules, no image needed, no link reply needed.
+Pinterest extra: a new 2:3 design on an already published topic, never a repeat of an existing pin image, with its own title, description, link, alt text and board.
+They don't use a Planned topic or change its Status. Facts still get checked, and they go to the owner for approval with the batch. Don't list them in "Posts so far".
+
 ## Workflow for each post
 
 1. **Pick the topic.** Open `plan/content_plan.xlsx`, take the first row whose Status is `Planned`.
