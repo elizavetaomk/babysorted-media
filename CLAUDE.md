@@ -16,6 +16,10 @@ Fri = Sat, Sun, Mon. Threads extra: a useful tip or question from a published to
 Pinterest extra: a new 2:3 design on an already published topic, never a repeat of an existing pin image, with its own title, description, link, alt text and board.
 They don't use a Planned topic or change its Status. Facts still get checked, and they go to the owner for approval with the batch. Don't list them in "Posts so far".
 
+Parenting Tips posts (owner's request, Nov 2026): about 1 carousel in 5, plus lunchtime Threads posts. Pick topics close to something in the catalog or a published article.
+Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis: send worries to the GP or health visitor. No judging parents. Avoid contested topics
+(breast vs formula, co-sleeping, sleep training). Pinterest board for these: only once the owner has created it and given the name.
+
 ## Workflow for each post
 
 1. **Pick the topic.** Open `plan/content_plan.xlsx`, take the first row whose Status is `Planned`.
@@ -41,8 +45,8 @@ They don't use a Planned topic or change its Status. Facts still get checked, an
      pink or white, wood/beige on pink or mint, navy/black products on pink or white, white products on navy or deeper pink.
      Avoid putting a product on a panel of nearly the same colour, and avoid more than 2 brand colours plus the product per slide.
      Before sending, view the slides side by side and adjust any slide where colours clash.
-   - Covers carry two tags: type (Tips, Buying guide, Comparison, Deals, Checklist) + category
-     (Pushchairs, Car Seats, Kids Furniture, Nursing & Feeding).
+   - Covers carry two tags: type (Tips, Buying guide, Comparison, Deals, Checklist, Parenting Tips) + category
+     (Pushchairs, Car Seats, Kids Furniture, Nursing & Feeding, or another site catalog category such as Play & Development).
    - Close-up product style is for covers only; inner slides show whole products at a normal size,
      centred in the free space above the text card.
    - Last slide: babysorted.com/links + navy "Link in bio ↑".
