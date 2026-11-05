@@ -45,7 +45,7 @@ Wed = Wed 20:00 to Fri 09:00 (4 posts), Fri = Fri 20:00 to Mon 09:00 (6 posts).
    - Baby photos (owner's request, Nov 2026): add a real baby to covers and last slides so the niche reads at a glance; inner slides stay
      product-led. Library: private artifact https://claude.ai/artifact/SCWMb7rm46mY1QULyosL4X (read files with the Artifact tool, `photos/baby_NN.jpg`).
      The page lists which photos may run. Never put these source files in this public repo. Don't imply the child endorses a product.
-     Never use a photo that contradicts safe sleep or car seat advice. Recognisable faces are fine (owner approved these stock photos).
+     Photos 05, 08 and 14 run only as tight crops that hide the sleep setting, and never in sleep, cot or crib posts. Never show anything else that contradicts safe sleep or car seat advice. Recognisable faces are fine (owner approved these stock photos).
 5. **Captions.**
    - Instagram: expert tone + marketing hook, plain short English, no blank lines, don't retell the
      slides, ~3 functional emojis (👉 🔗 📌), no affiliate disclosure line, exactly 5 UK-targeted
