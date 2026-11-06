@@ -18,7 +18,7 @@ They don't use a Planned topic or change its Status. Facts still get checked, an
 
 Parenting Tips posts (owner's request, Nov 2026): about 1 carousel in 5, plus lunchtime Threads posts. Pick topics close to something in the catalog or a published article.
 Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis: send worries to the GP or health visitor. No judging parents. Avoid contested topics
-(breast vs formula, co-sleeping, sleep training). Pinterest board for these: only once the owner has created it and given the name.
+(breast vs formula, co-sleeping, sleep training). Pinterest board for these: "Baby Care & Development Ideas".
 
 ## Workflow for each post
 
@@ -85,7 +85,7 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
    Pinterest boards (pass the exact name as boardId):
    Pushchairs → "Pram & Pushchair Tips" · Car Seats → "Car Seat Safety Tips" ·
    Kids Furniture → "Nursery & Safe Sleep Tips" · Nursing & Feeding → "Breastfeeding & Bottle Feeding Tips".
-   Deals posts (any category) → "Baby Gear Deals UK". New board names should not all end in "Tips".
+   Deals posts (any category) → "Baby Gear Deals UK". Parenting Tips → "Baby Care & Development Ideas". New board names should not all end in "Tips".
    If Metricool cannot find a board, tell the owner instead of picking another one.
    Then set the plan row Status to `Scheduled <date>` and commit the plan.
 
