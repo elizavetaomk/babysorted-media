@@ -30,6 +30,15 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
    Never recommend supplements or vitamins ourselves (no doses, no "take/give X"): only tell people to ask
    their GP, midwife or health visitor. When a post gives a phone number, say which country it serves and
    whether the call is free or charged.
+   Sources (owner's request, Nov 2026): every fact that comes from a source carries a clear label starting with `Source:`
+   (e.g. `Source: NHS`, `Source: RoSPA and Which?`), never a bare name or a date on its own. This applies to slides, pins,
+   Threads (a `Source: ...` line before the final question), Pinterest descriptions, and Instagram captions that name a source.
+   Brands (owner's request, Nov 2026): never give advice in a brand's name or quote a brand as the authority, and never use one
+   brand's limit or figure as general advice. Use independent UK sources. If only makers say something, write "Pushchair makers say"
+   with no brand name. Product names belong only to catalog products shown as products.
+   Prices (owner's request, Nov 2026): every price on a slide or pin carries `Price on BabySorted, <d Mon YYYY>` (`Prices on ...` for
+   several), the date the price was read from our aggregator. A price from another source says so (`Source: Which?`). No prices in
+   captions. Check a price range against the whole catalog, including the most expensive models, not a few examples.
 3. **Product photos come from the BabySorted catalog.** The site loads products from Supabase
    (`https://khhjsjiltmtrrrkaghif.supabase.co`, table `products`). Take the public anon key from
    `https://babysorted.com/catalog` (it is in the page HTML). Read only — never write to the database.
