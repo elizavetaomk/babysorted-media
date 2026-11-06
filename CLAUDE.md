@@ -70,6 +70,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      slides, ~3 functional emojis (👉 🔗 📌), no affiliate disclosure line, exactly 5 UK-targeted
      hashtags (e.g. #ukmums #pregnancyuk).
    - Pinterest: Title, strong Description, Link (relevant article), alt text. No hashtags.
+   - Calls to action (owner's request, Nov 2026): our main selling point is comparing prices, then features. Every call to action on
+     slides, pins and captions says compare prices, e.g. "Compare car seat prices at babysorted.com", never "Compare car seats".
    - Threads: one post under 500 characters, no emojis, ends with a question; link goes in a reply
      (Metricool `descendants`); attach the cover; suggest one topic tag.
 6. **Send for approval.** Send the slides, pin and all captions to the owner in one message, then send
