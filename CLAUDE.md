@@ -67,6 +67,7 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      product-led. Library: private artifact https://claude.ai/artifact/SCWMb7rm46mY1QULyosL4X (read files with the Artifact tool, `photos/baby_NN.jpg`).
      The page lists which photos may run. Never put these source files in this public repo. Don't imply the child endorses a product.
      Photos 05, 08 and 14 run only as tight crops that hide the sleep setting, and never in sleep, cot or crib posts. Never show anything else that contradicts safe sleep or car seat advice. Recognisable faces are fine (owner approved these stock photos).
+     Photos 16–35 (added 6 Nov 2026) do not run until the owner confirms their source and licence.
 5. **Captions.**
    - Instagram: expert tone + marketing hook, plain short English, no blank lines, don't retell the
      slides, ~3 functional emojis (👉 🔗 📌), no affiliate disclosure line, exactly 5 UK-targeted
