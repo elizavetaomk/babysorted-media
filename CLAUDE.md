@@ -103,4 +103,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #26 Nursery furniture deals before Christmas (4 Nov, 21:05)
 - #27 Best bottle sterilisers: steam vs UV (5 Nov, 09:00) · #28 Best compact strollers for travel and flights (5 Nov)
 - #29 Best rotating car seats for easy lifting (6 Nov, 09:00)
+- #30 Wooden vs plastic high chair (6 Nov) · #31 Bottle feeding starter kit (7 Nov, 09:00) · #32 When to switch from carrycot to seat unit (7 Nov)
+- Parenting Tips: Baby hates tummy time? (8 Nov, 09:00) · #33 Why you should never buy a used car seat (8 Nov)
+- #35 Nursery furniture you really need (9 Nov, 09:00)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
+- Boxing Day deals topic #34 is kept for just before 26 Dec.
