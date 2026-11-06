@@ -32,7 +32,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
    whether the call is free or charged.
    Sources (owner's request, Nov 2026): show a `Source:` label only on medical and health advice, safety recommendations, certificates,
    standards and legal rules, and only from NHS, Best Start in Life, Lullaby Trust, RoSPA or gov.uk (e.g. `Source: NHS`). Never a bare name or
-   a date on its own. No label on ordinary buying advice. Which? and other sites that publish SEO articles are for our own fact checks only:
+   a date on its own. On slides, pins and Pinterest descriptions explain lesser-known names: `Source: RoSPA, the UK accident prevention charity`,
+   `Source: The Lullaby Trust, the UK safer baby sleep charity`. NHS stays short. In Threads use the short name only. No label on ordinary buying advice. Which? and other sites that publish SEO articles are for our own fact checks only:
    never name or quote them in posts, and don't use their surveys or test figures as our headline facts. Still list all sources for the owner.
    Brands (owner's request, Nov 2026): never give advice in a brand's name or quote a brand as the authority, and never use one
    brand's limit or figure as general advice. Use independent UK sources. If only makers say something, write "Pushchair makers say"
