@@ -4,7 +4,7 @@ import sys; sys.path.insert(0,__file__.rsplit('/',1)[0])
 from extras import *
 CSS=css(ROSE,NAVY,NAVY,"#fff")+".t2{background:#fff;box-shadow:none}"
 deco=star(36,30,26,"#fff")+star(1000,40,30,"#fff")
-ST=b("ster.png",1000); CUP=b("cup.png",900); BR=b("brush.png",900); BO=b("bottles.png",1100)
+ST=b("ster2.png",1000); CUP=b("cup.png",900); BR=b("brush.png",900); BO=b("bibs.png",1000)
 DATE="9 Nov 2026"
 def sticker(k): return f'<div style="position:absolute;left:60px;top:60px;background:{NAVY};color:#fff;border-radius:22px;padding:14px 24px;transform:rotate(-4deg);font-weight:800;font-size:30px;letter-spacing:.05em;z-index:2">MISTAKE {k} OF 5</div>'
 def mis(k,title,body,instead,vis,src,price=""):
@@ -24,10 +24,10 @@ cover=star(980,60,36,"#fff")+star(1000,560,24,"#fff")+f'''<div style="position:a
 s2=deco+f'''<div style="position:absolute;left:70px;right:70px;top:80px"><div class="kick">START HERE</div></div>
 <div style="position:absolute;left:60px;right:60px;top:140px;background:#fff;border-radius:44px;padding:44px 50px"><div class="h" style="font-size:150px;line-height:.7;color:{ROSE}">“</div><div class="h" style="font-size:74px;margin-top:-6px">There's no evidence that 1 type of teat or bottle is better than any other.</div><div style="font-size:32px;font-weight:700;opacity:.6;margin-top:22px">Source: NHS</div></div>
 <div style="position:absolute;left:60px;right:60px;top:720px;background:{NAVY};color:#fff;border-radius:34px;padding:44px 50px"><div class="h" style="font-size:66px">So the fancy kit can wait.</div><div class="b" style="font-size:40px;margin-top:16px">Here are 5 places parents overspend, or buy the wrong thing, in the first year.</div></div>'''
-s3=mis(1,"Paying extra for a “special” bottle","The NHS says simple bottles that are easy to clean are likely to be best. Start with a few and see how your baby gets on.","Buy a small starter set, not a cupboard full.",img(BO,400,"margin-right:260px"),"Source: NHS",("£23.95","Tommee Tippee starter kit"))
+s3=mis(1,"Paying extra for a “special” bottle","The NHS says simple bottles that are easy to clean are likely to be best. Start with a few and see how your baby gets on.","Buy a small starter set, not a cupboard full.",img(BO,430,"margin-right:300px"),"Source: NHS",("£23.96","BIBS glass bottles, 2 pack"))
 F1=f'''<div style="text-align:center"><div class="h" style="font-size:200px;line-height:.9">1</div><div class="h" style="font-size:52px">formula for the first year</div><div style="margin-top:22px"><span class="pill" style="background:{MINT}">First infant formula</span></div></div>'''
 s4=mis(2,"Stocking up on follow-on or “hungry baby” milk","First infant formula is the only formula your baby needs in year one. Switching to follow-on at 6 months has no benefits. Hungry baby milk: no evidence babies settle or sleep longer.","Ask your midwife or health visitor before you switch.",F1,"Source: NHS")
-s5=mis(3,"Thinking the dishwasher sterilises","A dishwasher cleans bottles, but it doesn't sterilise them. Keep sterilising bottles and teats until your baby is at least 12 months old.","Wash, rinse, then sterilise. Every feed, for a year.",img(ST,420,"margin-right:300px"),"Source: NHS",("£54.95","Tommee Tippee electric steriliser"))
+s5=mis(3,"Thinking the dishwasher sterilises","A dishwasher cleans bottles, but it doesn't sterilise them. Keep sterilising bottles and teats until your baby is at least 12 months old.","Wash, rinse, then sterilise. Every feed, for a year.",img(ST,420,"margin-right:300px"),"Source: NHS",("£89.99","Momcozy steriliser and dryer"))
 s6=mis(4,"Using the kitchen brush","Keep one clean brush only for bottles. Check teats and bottles often for tears and cracks. And never clean teats with salt: it can be dangerous for your baby.","One brush, bottles only. Bin damaged teats.",img(BR,440,"margin-right:300px"),"Source: NHS",("£2.49","Jane bottle brush with sponge"))
 s7=mis(5,"Buying a “non-spill” valve cup","From about 6 months, an open cup or a free-flow cup without a valve helps your baby learn to sip. It's better for teeth. From age 1, move away from bottles.","Look for an open or free-flow cup.",img(CUP,380,"margin-right:300px"),"Source: NHS",("£12.80","Mamas &amp; Papas 3-in-1 cup, works as an open cup"))
 s8=star(36,30,26,"#fff")+f'''{round_pic(baby(13,960,560,.5,.4),60,60,960,560,44)}
