@@ -110,5 +110,7 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #30 Wooden vs plastic high chair (6 Nov) · #31 Bottle feeding starter kit (7 Nov, 09:00) · #32 When to switch from carrycot to seat unit (7 Nov)
 - Parenting Tips: Baby hates tummy time? (8 Nov, 09:00) · #33 Why you should never buy a used car seat (8 Nov)
 - #35 Nursery furniture you really need (9 Nov, 09:00)
+- #36 5 feeding gear mistakes new parents make (9 Nov) · #37 Pram accessories you need and ones you don't (10 Nov, 09:00)
+- #38 Best car seats for small cars (10 Nov) · Parenting Tips: #55 Bath time safety in the first year (11 Nov, 09:00)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
