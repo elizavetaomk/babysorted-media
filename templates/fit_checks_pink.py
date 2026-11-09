@@ -23,12 +23,7 @@ def seat(k,name,use,pic,h,specs,good,price):
 <div style="display:flex;gap:14px;margin-top:22px">{tiles}</div>
 <div class="b" style="margin-top:22px;font-size:35px"><b style="font-weight:800">Small car tip:</b> {good}</div>
 <div style="font-size:24px;font-weight:600;opacity:.55;margin-top:14px">Sizes are the maker's figures. Check yours in the car before you buy.</div></div></div>'''
-cover=star(980,60,36,"#fff")+star(50,700,24,"#fff")+f'''<img src="{IS}" style="position:absolute;left:400px;top:60px;height:900px;{SH}">
-{round_pic(baby(15,280,280,.553,.33,4.6),60,330,280,280,140,"#fff")}
-<div style="position:absolute;left:60px;right:60px;top:770px;height:440px;background:#fff;border-radius:44px;padding:36px 44px"><div class="tags"><span class="tag t1">Buying guide</span><span class="tag t2" style="box-shadow:inset 0 0 0 3px {NAVY}">Car Seats</span></div>
-<div class="h" style="font-size:88px;margin-top:22px">Best car seats for small cars</div>
-<div style="font-size:36px;font-weight:600;opacity:.75;margin-top:14px">4 checks first. Then 3 seats worth a look.</div>
-<div style="position:absolute;right:40px;top:36px;background:{NAVY};color:#fff;font-weight:700;font-size:26px;padding:10px 22px;border-radius:30px">Swipe before you buy</div></div>'''
+cover=hero_cover(baby(13,1080,800,.42,.4,1.0),'<div class="tags"><span class="tag t1" style="font-size:28px">Buying guide</span><span class="tag t2" style="box-shadow:inset 0 0 0 3px #051F45;font-size:28px" style="font-size:28px">Car Seats</span></div>',"Best car seats for small cars","4 checks first. Then 3 seats worth a look.",f'<img src="{IS}" style="height:380px;{SH}">',1,card="#fff",title_fs=80)+star(1000,40,30,"#fff")
 s2=deco+f'''<div style="position:absolute;left:70px;right:70px;top:80px"><div class="kick">START WITH THE LAW</div><div class="h" style="font-size:80px;margin-top:8px">Plan for rear-facing</div></div>
 <div style="position:absolute;left:60px;right:60px;top:320px;height:470px;background:#fff;border-radius:44px;display:flex;flex-direction:column;align-items:center;justify-content:center"><div style="font-weight:800;font-size:34px;opacity:.6">rear-facing until over</div><div class="h" style="font-size:220px;line-height:1">15</div><div class="h" style="font-size:64px">months</div></div>
 <div class="b" style="position:absolute;left:70px;right:70px;top:830px;font-size:41px">Height-based (i-Size) seats must face backwards until your child is over 15 months. So in a small car, the real question is room behind the front seat, not just width.</div>
@@ -40,17 +35,13 @@ s6=check(4,"Thinking of the front seat?","You must turn off the front airbag bef
 s7=seat(1,"Joie i-Level Pro Signature","Newborn",IL,420,[("FITS","Birth to 87cm"),("WIDTH","44.5cm"),("FITS WITH","Seat belt or base")],"it fits with the car's 3-point belt, so it still works in a car without ISOFIX. Bases are sold separately.","£137.99")
 s8=seat(2,"Joie i-Spin 360 Compact","Next stage",IS,440,[("FITS","61 to 105cm"),("WIDTH","44cm"),("LENGTH","69.4cm")],"it turns to face the door for lifting in. It uses ISOFIX and a support leg, so do check 2 first.","£150.00")
 s9=seat(3,"Maxi-Cosi Nomad XL Plus","15 months+",NO,440,[("FITS","15 months to 12 years"),("WIDTH","44cm"),("EXTRA","Folds")],"it folds to swap between cars or to store. Up to 4 years it uses ISOFIX and a top tether, so do check 3.","£152.94")
-s10=star(36,30,26,"#fff")+f'''{round_pic(baby(11,960,560,.5,.4),60,60,960,560,44)}
-<div style="position:absolute;left:70px;right:70px;top:650px"><div class="h" style="font-size:78px">Found one that fits? Compare prices first</div>
-<div class="b" style="margin-top:18px;font-size:38px">Compare car seat prices from UK shops in one place.</div>
-<div style="margin-top:30px">{link_row("#fff")}</div>
-<div style="margin-top:20px;font-size:32px;font-weight:700;opacity:.6">Save this post for later</div></div>'''
+s10=hero_last(baby(7,1080,760,.36,.5,1.0),"Found one that fits? Compare prices first","Compare car seat prices from UK shops in one place.","#fff")
 C=[("On your car's list?","Car makers list approved seats. Try it in your car."),("Storage under the floor?","A support leg must not stand on a storage lid."),("Needs a top tether?","Your car needs a tether point for it."),("Front seat?","Rear-facing only with the airbag turned off.")]
 cc="".join(f'<div style="display:flex;align-items:center;gap:20px;padding:15px 0;border-top:{"0" if i==0 else f"3px solid {PINK}"}"><div class="h" style="flex:none;width:58px;height:58px;border-radius:50%;background:{NAVY};color:#fff;font-size:30px;display:flex;align-items:center;justify-content:center">{i+1}</div><div><div class="h" style="font-size:35px">{a}</div><div style="font-size:26px;font-weight:500;opacity:.85;margin-top:2px">{c}</div></div></div>' for i,(a,c) in enumerate(C))
 SE=[(IL,"£137.99","Joie i-Level Pro Signature","Birth to 87cm"),(IS,"£150.00","Joie i-Spin 360 Compact","61 to 105cm"),(NO,"£152.94","Maxi-Cosi Nomad XL Plus","15 months+")]
 se="".join(f'<div style="flex:1;background:#fff;border-radius:28px;padding:16px 12px;text-align:center"><div style="height:250px;display:flex;align-items:center;justify-content:center">{img(p,240)}</div><div class="h" style="font-size:24px;margin-top:8px;line-height:1.15">{n}</div><div style="font-size:21px;font-weight:600;opacity:.7">{f}</div><div class="h" style="font-size:32px;margin-top:4px">{pr}</div></div>' for p,pr,n,f in SE)
 pin=f'''{star(920,44,30,"#fff")}<div style="position:absolute;left:60px;right:60px;top:56px"><div class="tags"><span class="tag t1" style="font-size:24px">Buying guide</span><span class="tag t2" style="font-size:24px">Car Seats</span></div>
-<div class="h" style="font-size:76px;margin-top:20px">Car seats for small cars: 4 checks first</div></div>
+<div class="h" style="font-size:64px;margin-top:20px;width:520px">Car seats for small cars: 4 checks first</div></div><img src="{baby(13,330,270,.42,.4,1.1)}" style="position:absolute;right:60px;top:56px;width:330px;height:280px;border-radius:30px;object-fit:cover">
 <div style="position:absolute;left:60px;right:60px;top:355px;background:#fff;border-radius:34px;padding:10px 34px 12px">{cc}</div>
 <div style="position:absolute;left:60px;right:60px;top:830px;display:flex;gap:16px">{se}</div>
 <div style="position:absolute;left:60px;right:60px;top:1290px;font-size:23px;font-weight:600;opacity:.75;line-height:1.3">Prices on BabySorted, {DATE}. Source for checks 1–3: RoSPA, the UK accident prevention charity. Source for check 4: GOV.UK.</div>

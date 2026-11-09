@@ -64,7 +64,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
    - Instagram API takes max 10 images per carousel.
    - Pinterest: one 2:3 image with all points, no "swipe" pill, no slide dots.
    - Baby photos (owner's request, Nov 2026): add a real baby to covers and last slides so the niche reads at a glance; inner slides stay
-     product-led. Library: private artifact https://claude.ai/artifact/SCWMb7rm46mY1QULyosL4X (read files with the Artifact tool, `photos/baby_NN.jpg`).
+     product-led. Make them big (owner's request, 9 Nov 2026): covers and last slides are photo-led, with the photo full width across the top
+     (about 60% of the slide) and the product inside the text card, not on the photo; pins carry a large photo too. Library: private artifact https://claude.ai/artifact/SCWMb7rm46mY1QULyosL4X (read files with the Artifact tool, `photos/baby_NN.jpg`).
      The page lists which photos may run. Never put these source files in this public repo. Don't imply the child endorses a product.
      Photos 05, 08 and 14 run only as tight crops that hide the sleep setting, and never in sleep, cot or crib posts. Never show anything else that contradicts safe sleep or car seat advice. Recognisable faces are fine (owner approved these stock photos).
      Photos 16–35 (added 6 Nov 2026) do not run until the owner confirms their source and licence.
