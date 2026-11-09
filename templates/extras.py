@@ -33,3 +33,16 @@ def hero_last(photo,title,body,link_bg,fg=NAVY,photo_h=760,note=""):
 <div style="position:absolute;left:70px;right:70px;top:{photo_h+36}px;color:{fg}">{nt}<div class="h" style="font-size:66px">{title}</div>
 <div class="b" style="margin-top:12px;font-size:34px">{body}</div>
 <div style="margin-top:24px">{link_row(link_bg,42)}</div></div>'''
+# Photo-led Pinterest pin (owner's request, 9 Nov 2026: pins need big baby photos, less wall of text). 1000x1500.
+def pin_hero(photo,tags,title,items,prod,prod_h,bg,fg,num_bg,num_fg,source,cta,line=None,photo_h=700,title_fs=64):
+    line=line or num_bg
+    rows="".join(f'<div style="display:flex;align-items:center;gap:18px;padding:13px 0;border-top:{"0" if i==0 else f"3px solid {line}"}"><div class="h" style="flex:none;width:52px;height:52px;border-radius:50%;background:{num_bg};color:{num_fg};font-size:28px;display:flex;align-items:center;justify-content:center">{i+1}</div><div class="h" style="font-size:34px;line-height:1.12">{t}</div></div>' for i,t in enumerate(items))
+    pw=250 if prod else 0
+    return f'''<img src="{photo}" style="position:absolute;left:0;top:0;width:1000px;height:{photo_h}px;object-fit:cover">
+<div style="position:absolute;left:50px;top:44px">{tags}</div>
+<div style="position:absolute;left:0;right:0;top:{photo_h-40}px;bottom:0;background:{bg};border-radius:40px 40px 0 0"></div>
+<div style="position:absolute;left:56px;right:56px;top:{photo_h-6}px;color:{fg}"><div class="h" style="font-size:{title_fs}px">{title}</div>
+<div style="display:flex;gap:16px;margin-top:14px"><div style="flex:1">{rows}</div>{f'<div style="flex:none;width:{pw}px;display:flex;align-items:center;justify-content:center"><img src="{prod}" style="max-width:{pw}px;height:{prod_h}px;object-fit:contain;{SH}"></div>' if prod else ''}</div></div>
+<div style="position:absolute;left:56px;right:56px;bottom:96px;color:{fg};font-size:22px;font-weight:600;opacity:.75;line-height:1.3">{source}</div>
+<div style="position:absolute;left:56px;right:56px;bottom:34px;display:flex;justify-content:space-between;align-items:center;color:{fg}"><div class="brand" style="font-size:34px">BabySorted</div><div style="font-weight:700;font-size:25px">{cta}</div></div>'''
+def pin_tags(a,b): return f'<div class="tags"><span class="tag" style="font-size:24px;background:#051F45;color:#fff">{a}</span><span class="tag" style="font-size:24px;background:#fff;color:#051F45">{b}</span></div>'

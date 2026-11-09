@@ -62,7 +62,9 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      centred in the free space above the text card.
    - Last slide: babysorted.com/links + navy "Link in bio ↑".
    - Instagram API takes max 10 images per carousel.
-   - Pinterest: one 2:3 image with all points, no "swipe" pill, no slide dots.
+   - Pinterest: one 2:3 image with all points, no "swipe" pill, no slide dots. Every pin, lunchtime pins too, is photo-led (owner's request, 9 Nov 2026):
+     a big baby photo full width across the top (about 45%), then a short title and short one-line points, product small beside the list
+     (`pin_hero` in templates/extras.py). Avoid walls of text.
    - Baby photos (owner's request, Nov 2026): add a real baby to covers and last slides so the niche reads at a glance; inner slides stay
      product-led. Make them big (owner's request, 9 Nov 2026): covers and last slides are photo-led, with the photo full width across the top
      (about 60% of the slide) and the product inside the text card, not on the photo; pins carry a large photo too. Library: private artifact https://claude.ai/artifact/SCWMb7rm46mY1QULyosL4X (read files with the Artifact tool, `photos/baby_NN.jpg`).
