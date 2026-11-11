@@ -36,7 +36,7 @@ def hero_last(photo,title,body,link_bg,fg=NAVY,photo_h=760,note=""):
 # Photo-led Pinterest pin (owner's request, 9 Nov 2026: pins need big baby photos, less wall of text). 1000x1500.
 def pin_hero(photo,tags,title,items,prod,prod_h,bg,fg,num_bg,num_fg,source,cta,line=None,photo_h=700,title_fs=64):
     line=line or num_bg
-    rows="".join(f'<div style="display:flex;align-items:center;gap:18px;padding:13px 0;border-top:{"0" if i==0 else f"3px solid {line}"}"><div class="h" style="flex:none;width:52px;height:52px;border-radius:50%;background:{num_bg};color:{num_fg};font-size:28px;display:flex;align-items:center;justify-content:center">{i+1}</div><div class="h" style="font-size:34px;line-height:1.12">{t}</div></div>' for i,t in enumerate(items))
+    rows="".join(f'<div style="display:flex;align-items:center;gap:18px;padding:13px 0;border-top:{"0" if i==0 else f"3px solid {line}"}"><div class="h" style="flex:none;width:52px;height:52px;border-radius:50%;background:{num_bg};color:{num_fg};font-size:28px;display:flex;align-items:center;justify-content:center">{i+1}</div><div class="h" style="font-size:34px;line-height:1.12;flex:1">{t}</div></div>' for i,t in enumerate(items))
     pw=250 if prod else 0
     return f'''<img src="{photo}" style="position:absolute;left:0;top:0;width:1000px;height:{photo_h}px;object-fit:cover">
 <div style="position:absolute;left:50px;top:44px">{tags}</div>
