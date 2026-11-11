@@ -61,6 +61,10 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
    - Close-up product style is for covers only; inner slides show whole products at a normal size,
      centred in the free space above the text card.
    - Last slide: babysorted.com/links + navy "Link in bio ↑".
+   - Deals posts look different from normal posts (owner's request, 11 Nov 2026): navy coupon style from `templates/deals_coupon_navy.py`:
+     white tear-off coupons with side notches and a dashed tear line, deeper-pink starburst SAVE badges, a tilted deeper-pink event ribbon
+     (e.g. "11.11 DEALS", "BLACK FRIDAY"), the dearer shop's price struck through. Covers and pins stay photo-led. Compare the same product
+     and colour across shops in our catalog rather than trusting shop "was" prices (bundle was-prices are often the sum of parts).
    - Instagram API takes max 10 images per carousel.
    - Pinterest: one 2:3 image with all points, no "swipe" pill, no slide dots. Every pin, lunchtime pins too, is photo-led (owner's request, 9 Nov 2026):
      a big baby photo full width across the top (about 45%), then a short title and short one-line points, product small beside the list
