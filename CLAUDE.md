@@ -75,7 +75,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      The page lists which photos may run. Never put these source files in this public repo. Don't imply the child endorses a product.
      All library photos may run full size (owner's decision, 11 Nov 2026), but a photo that shows a sleep setting, a baby on a raised surface
      or a cord near the neck never goes on a post whose advice it contradicts (sleep, cot, falls, home safety). The library page notes the limits per photo. Recognisable faces are fine (owner approved these stock photos).
-     Photos 16–35 (added 6 Nov 2026) and 36–52 (added 11 Nov 2026) do not run until the owner confirms their source and licence.
+     Photos 16–35 (added 6 Nov 2026) and 36–52 (added 11 Nov 2026) do not run until the owner confirms their source and licence,
+     except 37, 44 and 51, which she approved by approving the 11.11 deals post.
 5. **Captions.**
    - Instagram: expert tone + marketing hook, plain short English, no blank lines, don't retell the
      slides, ~3 functional emojis (👉 🔗 📌), no affiliate disclosure line, exactly 5 UK-targeted
@@ -117,5 +118,6 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #35 Nursery furniture you really need (9 Nov, 09:00)
 - #36 5 feeding gear mistakes new parents make (9 Nov) · #37 Pram accessories you need and ones you don't (10 Nov, 09:00)
 - #38 Best car seats for small cars (10 Nov) · Parenting Tips: #55 Bath time safety in the first year (11 Nov, 09:00)
+- #81 11.11 deals: same product, less money (11 Nov, 14:00, extra Deals post)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
