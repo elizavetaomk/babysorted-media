@@ -78,6 +78,10 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      Photos 16–52 confirmed by the owner (source and licence) on 13 Nov 2026 and may now run, subject to each photo's per-photo limits on the library page
      (photos 42 and 49 stay in the "do not use" list; 43 and 52 are crop-only). Rotate photos so the same face isn't reused across nearby posts: the
      1–15 pool is now heavily used, so prefer fresh faces from 16–52 on new posts.
+   - Cover photos (owner's request, 13 Nov 2026): a baby photo that has been on a cover must not go on another cover for 30 days.
+     Check `plan/cover_photos.csv` before picking covers, add every new post's cover (and pin) photo there when preparing it, and set its
+     status to published once scheduled. Reusing a photo inside a post (inner or last slides, pins) is fine. If fewer than ~10 photos are
+     free for covers in the next run, tell the owner she needs to add new photos.
 5. **Captions.**
    - Instagram: expert tone + marketing hook, plain short English, no blank lines, don't retell the
      slides, ~3 functional emojis (👉 🔗 📌), no affiliate disclosure line, exactly 5 UK-targeted
