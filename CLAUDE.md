@@ -124,5 +124,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #36 5 feeding gear mistakes new parents make (9 Nov) · #37 Pram accessories you need and ones you don't (10 Nov, 09:00)
 - #38 Best car seats for small cars (10 Nov) · Parenting Tips: #55 Bath time safety in the first year (11 Nov, 09:00)
 - #81 11.11 deals: same product, less money (11 Nov, 14:00, extra Deals post)
+- #39 How to set up a small nursery (13 Nov) · #40 Best bottle prep machines (14 Nov, 09:00)
+- #41 Breast pump deals this month (14 Nov) · #42 Best double pushchairs for twins and siblings (15 Nov, 09:00)
+- #43 Rear-facing for longer: why experts recommend it (15 Nov) · #44 Best changing units and dressers (16 Nov, 09:00)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
