@@ -75,8 +75,9 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      The page lists which photos may run. Never put these source files in this public repo. Don't imply the child endorses a product.
      All library photos may run full size (owner's decision, 11 Nov 2026), but a photo that shows a sleep setting, a baby on a raised surface
      or a cord near the neck never goes on a post whose advice it contradicts (sleep, cot, falls, home safety). The library page notes the limits per photo. Recognisable faces are fine (owner approved these stock photos).
-     Photos 16–35 (added 6 Nov 2026) and 36–52 (added 11 Nov 2026) do not run until the owner confirms their source and licence,
-     except 37, 44 and 51, which she approved by approving the 11.11 deals post.
+     Photos 16–52 confirmed by the owner (source and licence) on 13 Nov 2026 and may now run, subject to each photo's per-photo limits on the library page
+     (photos 42 and 49 stay in the "do not use" list; 43 and 52 are crop-only). Rotate photos so the same face isn't reused across nearby posts: the
+     1–15 pool is now heavily used, so prefer fresh faces from 16–52 on new posts.
 5. **Captions.**
    - Instagram: expert tone + marketing hook, plain short English, no blank lines, don't retell the
      slides, ~3 functional emojis (👉 🔗 📌), no affiliate disclosure line, exactly 5 UK-targeted
