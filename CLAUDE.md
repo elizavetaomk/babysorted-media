@@ -127,5 +127,7 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #39 How to set up a small nursery (13 Nov) · #40 Best bottle prep machines (14 Nov, 09:00)
 - #41 Breast pump deals this month (14 Nov) · #42 Best double pushchairs for twins and siblings (15 Nov, 09:00)
 - #43 Rear-facing for longer: why experts recommend it (15 Nov) · #44 Best changing units and dressers (16 Nov, 09:00)
+- #45 How much should you really spend on a pram? (16 Nov) · #46 Big baby gear checklist: what to buy before birth (17 Nov, 09:00)
+- #47 Winter car seat safety: the puffy coat rule (17 Nov) · Parenting Tips: #60 Baby-proofing before they crawl (18 Nov, 09:00)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
