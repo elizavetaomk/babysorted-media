@@ -137,5 +137,6 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #48 When to move baby from crib to cot (20 Nov) · #49 New or second-hand pram (21 Nov, 09:00)
 - #52 Two car seats in one car (21 Nov) · Parenting Tips: #65 First foods, what you need for weaning (22 Nov, 09:00)
 - #50 Best all-terrain prams (22 Nov) · #51 Footmuff vs pram blanket (23 Nov, 09:00)
-- Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
+- #53 Moses basket or bedside crib (24 Nov) · #20 Black Friday pram deals worth buying (25 Nov, 09:00)
+- Black Friday deals topic #21 is kept for 27 Nov (Black Friday is 27 Nov 2026).
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
