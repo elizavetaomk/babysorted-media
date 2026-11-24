@@ -10,9 +10,10 @@ by the owner, then scheduled in Metricool. Runs happen after 09:00 UK, so each b
 and ends with the 09:00 slot on the day of the next run: Mon = Mon 20:00 to Wed 09:00 (4 posts),
 Wed = Wed 20:00 to Fri 09:00 (4 posts), Fri = Fri 20:00 to Mon 09:00 (6 posts).
 
-Lunchtime extras (owner's request, Nov 2026): every day at 13:00 Europe/London, one short Threads post and one fresh Pinterest pin. Not an Instagram post,
+Lunchtime extras (owner's request, Nov 2026): every day at 13:00 Europe/London, one short Threads post and one fresh Pinterest pin (plus Facebook, see below). Not an Instagram post,
 and no Instagram Stories. Batches cover the 13:00 slots from the next day up to and including the day of the next run: Mon = Tue, Wed; Wed = Thu, Fri;
 Fri = Sat, Sun, Mon. Threads extra: a useful tip or question from a published topic, same Threads rules, no image needed, no link reply needed.
+Facebook extra (from 24 Nov 2026): the lunchtime pin image with a short Facebook caption and the article link.
 Pinterest extra: a new 2:3 design on an already published topic, never a repeat of an existing pin image, with its own title, description, link, alt text and board.
 They don't use a Planned topic or change its Status. Facts still get checked, and they go to the owner for approval with the batch. Don't list them in "Posts so far".
 
@@ -91,11 +92,15 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
      slides, pins and captions says compare prices, e.g. "Compare car seat prices at babysorted.com", never "Compare car seats".
    - Threads: one post under 500 characters, no emojis, ends with a question; link goes in a reply
      (Metricool `descendants`); attach the cover; suggest one topic tag.
+   - Facebook (owner's request, 24 Nov 2026: publish all our posts to Facebook too): its own caption, same expert tone and plain
+     short English, no "link in bio": put the direct article link at the end after a compare-prices call to action, no hashtags,
+     no emojis needed. Main posts go up as a multi-image Facebook post with all carousel slides; lunchtime extras use the pin image.
 6. **Send for approval.** Send the slides, pin and all captions to the owner in one message, then send
    a push notification that the post is ready. Do NOT schedule anything before the owner says "ok".
 7. **After "ok": publish.** Convert to JPEG, commit to `posts/<YYYY-MM-DD>-<slug>/`, push, check the
    raw URLs return 200. Schedule in Metricool (brand id `7547984`) for the post's planned slot, **09:00 or 20:00
-   Europe/London** (next free slot if that time has already passed): Instagram, Pinterest, Threads. Not Facebook.
+   Europe/London** (next free slot if that time has already passed): Instagram, Pinterest, Threads and Facebook
+   (Facebook added at the owner's request, 24 Nov 2026; lunchtime extras: Pinterest, Threads and Facebook).
    Each network is a separate Metricool post, because the captions and images differ.
    Pinterest boards (pass the exact name as boardId):
    Pushchairs → "Pram & Pushchair Tips" · Car Seats → "Car Seat Safety Tips" ·
@@ -129,5 +134,8 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #43 Rear-facing for longer: why experts recommend it (15 Nov) · #44 Best changing units and dressers (16 Nov, 09:00)
 - #45 How much should you really spend on a pram? (16 Nov) · #46 Big baby gear checklist: what to buy before birth (17 Nov, 09:00)
 - #47 Winter car seat safety: the puffy coat rule (17 Nov) · Parenting Tips: #60 Baby-proofing before they crawl (18 Nov, 09:00)
+- #48 When to move baby from crib to cot (20 Nov) · #49 New or second-hand pram (21 Nov, 09:00)
+- #52 Two car seats in one car (21 Nov) · Parenting Tips: #65 First foods, what you need for weaning (22 Nov, 09:00)
+- #50 Best all-terrain prams (22 Nov) · #51 Footmuff vs pram blanket (23 Nov, 09:00)
 - Black Friday deals topics #20 and #21 are kept for the week of 20–27 Nov (Black Friday is 27 Nov 2026).
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
