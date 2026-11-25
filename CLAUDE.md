@@ -138,5 +138,6 @@ Sources: NHS, Best Start in Life, Lullaby Trust. No medical advice or diagnosis:
 - #52 Two car seats in one car (21 Nov) · Parenting Tips: #65 First foods, what you need for weaning (22 Nov, 09:00)
 - #50 Best all-terrain prams (22 Nov) · #51 Footmuff vs pram blanket (23 Nov, 09:00)
 - #53 Moses basket or bedside crib (24 Nov) · #20 Black Friday pram deals worth buying (25 Nov, 09:00)
-- Black Friday deals topic #21 is kept for 27 Nov (Black Friday is 27 Nov 2026).
+- #54 Bottle warmers: do you need one? (25 Nov) · #56 What 'from birth' really means on a pushchair (26 Nov, 09:00)
+- Parenting Tips: #75 Teething: what helps (26 Nov) · #21 Black Friday car seat deals (27 Nov, 09:00)
 - Boxing Day deals topic #34 is kept for just before 26 Dec.
